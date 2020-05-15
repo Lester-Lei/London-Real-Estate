@@ -26,6 +26,7 @@ The data contain essential information, including:
  - Whether has garden (True/False)
  - Whether has balcony
  - Whether is penthouse
+
 The data are collected for the last three weeks from April. The data from each week is split in 33 postal code regions, which explains why we have 33 Excel files for each week. Moreover, week 2 is an update of week 1 and includes many properties from week 1 without any updated details (i.e. duplicates), those from week 1 with some updated details, and inevitably, new properties that were not advertised in week 1. The same apples for week 3 data as compared to week 2. I hope these make sense.
 
 Since we have the postal code, you should expand the dataset by using open data on school location, crimes, political-orientation, and so on so forth. This is an immediate task that you should think before the Wednesday’s meeting.
